@@ -1,0 +1,4 @@
+ext {
+    googlePlayServicesVersion = "18.1.0"
+    androidMapsUtilsVersion = "2.3.0"
+}
